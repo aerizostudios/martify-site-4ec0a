@@ -84,7 +84,7 @@ sections:
           Facing an issue? Not sure where to start? Contact us at any time and
           we'll be there to help you.
       - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+        avatar: images/group-28-1.svg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Get started right away with no codingand easy-to-use navigation
