@@ -113,7 +113,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Martify - Build your online store
     - name: 'twitter:description'
       value: >-
         With martify you can create a hyperlocal marketplace in just a few steps
