@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pleasant-chestnut.png
+    image: images/pixomatic_1614083417988.png
     image_alt: App preview
     title: 'Come for the performance, stay for the flexibility'
     content: >
