@@ -94,7 +94,7 @@ sections:
         style: primary
   - section_id: recent-posts
     type: section_posts
-    background: white
+    background: gray
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
