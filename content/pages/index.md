@@ -76,14 +76,13 @@ sections:
       - author: Fully-Powered Software
         avatar: images/group-24.svg
         avatar_alt: Eric Widget's photo
-        content: All-inclusive website dashboard andapplication
+        content: 'All-inclusive website dashboard andapplication, that is ready to use.'
       - author: Parsley Montana
-        avatar: images/review2.jpg
+        avatar: images/group-28.svg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Facing an issue? Not sure where to start? Contact us at any time and
+          we'll be there to help you.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
