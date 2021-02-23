@@ -101,7 +101,10 @@ seo:
       value: Martify - Build your online store
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        With martify you can create a hyperlocal marketplace in just a few steps
+        with no coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY |
+        CATERING
       keyName: property
     - name: 'og:image'
       value: images/hero.png
