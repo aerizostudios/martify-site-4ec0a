@@ -69,9 +69,6 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
     reviews:
       - author: "Fully-Powered Software &\_Cost-effective"
         avatar: images/group-24.svg
