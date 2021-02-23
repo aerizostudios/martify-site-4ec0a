@@ -19,12 +19,6 @@
                 "style": "link"
             },
             {
-                "url": "/features",
-                "style": "link",
-                "no_follow": false,
-                "label": "features"
-            },
-            {
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
