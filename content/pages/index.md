@@ -22,7 +22,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Powerful Admin Dashboard
-        image: images/feature1.png
+        image: images/admin-panel.webp
         image_alt: App preview on a phone and tablet
         content: >
           Provide complete flexibility to your users and manage daily orders
