@@ -87,8 +87,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Get started right away with no codingand easy-to-use navigation
+          settingsto create the most accessibleplatform for your customers.
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
