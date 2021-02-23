@@ -48,8 +48,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Get started right away with no coding and easy-to-use navigation
-          settings to create the most accessible platform for your customers.
+          Offer modern shopping experiences at any time, on any device. A
+          mobile-first PWA stack ensures you never miss the opportunity to make
+          the sale.
         actions:
           - label: Learn More
             url: /features
