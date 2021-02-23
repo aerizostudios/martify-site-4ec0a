@@ -89,7 +89,7 @@ sections:
           Get started right away with no codingand easy-to-use navigation
           settingsto create the most accessibleplatform for your customers.
 seo:
-  title: Stackbit Azimuth Theme
+  title: Martify Ecoomerce Platform
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
