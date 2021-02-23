@@ -115,7 +115,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        With martify you can create a hyperlocal marketplace in just a few steps
+        with no coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY |
+        CATERING
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
