@@ -17,7 +17,7 @@
                 "label": "Features",
                 "url": "/features",
                 "style": "link",
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "label": "Pricing",
