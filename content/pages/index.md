@@ -85,6 +85,9 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
   - section_id: call-to-action
     type: section_cta
     title: The Robust features will make your marketplace standout.
@@ -92,9 +95,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
