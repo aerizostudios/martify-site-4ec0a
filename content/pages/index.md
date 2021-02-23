@@ -58,6 +58,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: call-to-action
+    type: section_cta
+    title: The Robust features will make your marketplace standout.
+    actions:
+      - label: Get Started
+        url: /signup
+        style: primary
   - section_id: reviews
     type: section_reviews
     background: white
@@ -85,13 +92,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: call-to-action
-    type: section_cta
-    title: The Robust features will make your marketplace standout.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
