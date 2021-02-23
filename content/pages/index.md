@@ -73,7 +73,7 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
     reviews:
-      - author: Fully-Powered Software
+      - author: "Fully-Powered Software &\_Cost-effective"
         avatar: images/group-24.svg
         avatar_alt: Eric Widget's photo
         content: 'All-inclusive website dashboard andapplication, that is ready to use.'
