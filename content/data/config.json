@@ -133,5 +133,6 @@
         ],
         "content": "&copy; Martify. All rights reserved."
     },
-    "domain": "https://martify-site-4ec0a.netlify.app"
+    "domain": "https://martify-site-4ec0a.netlify.app",
+    "favicon": "images/polite-birch.png"
 }
