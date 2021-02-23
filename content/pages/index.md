@@ -83,7 +83,7 @@ sections:
         content: >-
           Facing an issue? Not sure where to start? Contact us at any time and
           we'll be there to help you.
-      - author: Jonquil Von Haggerston
+      - author: User-Friendly
         avatar: images/group-28-1.svg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
