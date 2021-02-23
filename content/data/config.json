@@ -22,7 +22,7 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": false
             }
         ]
     },
