@@ -15,7 +15,8 @@
             },
             {
                 "url": "/pricing",
-                "style": "link"
+                "style": "link",
+                "label": "Pricing"
             },
             {
                 "label": "Sign Up",
