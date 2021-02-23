@@ -90,7 +90,9 @@ sections:
           settingsto create the most accessibleplatform for your customers.
 seo:
   title: Martify - Build your online store
-  description: The preview of the Azimuth theme
+  description: >-
+    With martify you can create a hyperlocal marketplace in just a few steps
+    with no coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY | CATERING
   extra:
     - name: 'og:type'
       value: website
