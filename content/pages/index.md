@@ -3,8 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: >-
-      images/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f3234393931322f37313532373134362d35623662653238302d323864612d313165612d393031642d6562373631363161366266622e706e67.png
+    image: images/pleasant-chestnut.png
     image_alt: App preview
     title: 'Come for the performance, stay for the flexibility'
     content: >
