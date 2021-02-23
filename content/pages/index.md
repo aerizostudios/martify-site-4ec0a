@@ -76,7 +76,9 @@ sections:
       - author: "Fully-Powered Software &\_Cost-effective"
         avatar: images/group-24.svg
         avatar_alt: Eric Widget's photo
-        content: 'All-inclusive website dashboard andapplication, that is ready to use.'
+        content: >-
+          Value for money with no start-upcosts and advanced technologicaltools
+          designed to serve bothyou and your customers.
       - author: 24/7 Chat Support
         avatar: images/group-28.svg
         avatar_alt: Parsley Montana's photo
