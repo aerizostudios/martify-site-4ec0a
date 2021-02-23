@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: All the features of eCommerce
-        image: images/image.jpg
+        image: images/image-removebg-preview.png
         image_alt: App users welcoming a new member
         content: >
           With martify you can create a hyperlocal marketplace in just a few
