@@ -86,8 +86,8 @@ sections:
         avatar: images/group-28-1.svg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Get started right away with no codingand easy-to-use navigation
-          settingsto create the most accessibleplatform for your customers.
+          Get started right away with no coding and easy-to-use navigation
+          settings to create the most accessible platform for your customers.
 seo:
   title: Martify - Build your online store
   description: >-
