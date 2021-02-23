@@ -14,14 +14,14 @@
                 "style": "link"
             },
             {
-                "url": "/features",
-                "style": "link",
-                "no_follow": false
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
+            },
+            {
+                "url": "/features",
+                "style": "link",
+                "no_follow": false
             },
             {
                 "label": "Sign Up",
