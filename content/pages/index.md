@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/intro.svg
+    image: images/neat-goat.svg
     image_alt: App preview
     title: 'Come for the performance, stay for the flexibility'
     content: >
