@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 'Anywhere, any device'
-        image: images/any-device-da8699d6ac3e3d1a3d3d143e04a652f4.svg
+        image: images/pwa1.svg
         image_alt: App user profile preview
         content: >
           Offer modern shopping experiences at any time, on any device. A
