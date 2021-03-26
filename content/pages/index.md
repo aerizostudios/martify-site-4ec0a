@@ -60,7 +60,9 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    title: The Robust features will make your marketplace standout.
+    title: >-
+      Ultra-fast, cross-device, and offline-ready e-commerce experiences out of
+      the box.
     actions:
       - label: Get Started
         url: /signup
