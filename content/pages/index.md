@@ -21,9 +21,7 @@ sections:
       - title: Powerful Admin Dashboard
         image: images/admin-panel.webp
         image_alt: App preview on a phone and tablet
-        content: >
-          Provide complete flexibility to your users and manage daily orders
-          under one centralized view
+        content: "Its\_[multi-channel](https://docs.saleor.io/docs/next/dashboard/channels/),\_[multi-warehouse](https://docs.saleor.io/docs/next/dashboard/configuration/warehouses/), multi-language and multi-currency enable frictionless expansion and flexibility. All of this is wrapped into a friendly, fast and efficient Dashboard.\n"
         actions:
           - label: Learn More
             url: /features
