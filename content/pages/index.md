@@ -22,6 +22,8 @@ sections:
         image: images/admin-panel.webp
         image_alt: App preview on a phone and tablet
         content: >
+          **Made to power fast-growing e-commerce brands worldwide.**
+
           Its multi-language and multi-currency enable frictionless expansion
           and flexibility. All of this is wrapped into a friendly, fast and
           efficient Dashboard.
