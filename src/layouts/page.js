@@ -26,6 +26,7 @@ export default class Page extends React.Component {
                   )}
                   <div className="post-content">
                     {markdownify(_.get(this.props, 'page.markdown', null))}
+                    <iframe src="https://cdn.forms-content.sg-form.com/a367c93f-97a8-11eb-8390-aea81d4a7b87"/>
                   </div>
                 </article>
               </div>
