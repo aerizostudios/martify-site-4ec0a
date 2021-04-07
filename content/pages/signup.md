@@ -1,8 +1,6 @@
 ---
 title: Sign Up
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Have any doubts? Contact us by filling the form below or mail as at our id
 image: images/11.jpg
 image_alt: Office desk top view
 seo:
