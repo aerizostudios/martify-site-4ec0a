@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix, markdownify} from '../utils';
+import ContactSection from '../components/ContactSection';
 
 export default class Page extends React.Component {
     render() {
@@ -26,6 +27,7 @@ export default class Page extends React.Component {
                   )}
                   <div className="post-content">
                     {/* {markdownify(_.get(this.props, 'page.markdown', null))} */}
+                    <ContactSection />
                   </div>
                 </article>
               </div>
