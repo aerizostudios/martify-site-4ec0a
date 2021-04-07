@@ -6,6 +6,7 @@ export default class ContactSection extends React.Component {
             <section className="section">
               <div className="container container--md">
                 <form name="contactForm" id="contactForm" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                  <input aria-labelledby="honeypot-label" type="hidden" name="form-name" value="contactForm" />
                   <div className="form-group">
                     <label id="name-label" htmlFor="name">Name</label>
                     <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
