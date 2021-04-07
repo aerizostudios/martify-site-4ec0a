@@ -24,10 +24,10 @@ export default class Page extends React.Component {
                     <img src={withPrefix(_.get(this.props, 'page.frontmatter.image', null))} alt={_.get(this.props, 'page.frontmatter.image_alt', null)} />
                   </div>
                   )}
-                  {/* <div className="post-content"> */}
+                  <div className="post-content">
                     {/* {markdownify(_.get(this.props, 'page.markdown', null))} */}
                     <iframe src="https://cdn.forms-content.sg-form.com/a367c93f-97a8-11eb-8390-aea81d4a7b87"/>
-                  {/* </div> */}
+                  </div>
                 </article>
               </div>
             </div>
