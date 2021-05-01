@@ -10,7 +10,7 @@ sections:
       - title: Professional Monthly
         subtitle: For all businesses
         price: $250/m
-        details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Slack + Phone\n*   Whitelabel \n*   Fusce tempus mi vitae luctus\n*   Nullam sollicitudin ante\n\n"
+        details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Slack + Phone\n*   Whitelabel\n*   1 payment gateway integrated\n\n"
         highlight: true
         actions:
           - label: Order Now
