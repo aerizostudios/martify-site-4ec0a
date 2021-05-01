@@ -22,7 +22,7 @@ sections:
         details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Order Now
             url: '#'
             style: link
             has_icon: false
