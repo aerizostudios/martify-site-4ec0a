@@ -14,12 +14,10 @@ export default class SectionPricing extends React.Component {
                 <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                 )}
                 {_.get(section, 'subtitle', null) && (
-                    <>
                 <p className="block-subtitle">
                   {htmlToReact(_.get(section, 'subtitle', null))}
+                  <a>Contact Us</a>
                 </p>
-                <a>Contact Us</a>
-                </>
                 )}
               </div>
               {_.get(section, 'pricing_plans', null) && (
