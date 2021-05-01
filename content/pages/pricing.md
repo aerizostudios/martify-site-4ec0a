@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Professional Monthly
         subtitle: For all businesses
-        price: $49/m
+        price: $90/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
