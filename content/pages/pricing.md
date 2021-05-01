@@ -19,17 +19,7 @@ sections:
       - title: Professional Yearly
         subtitle: lorem-ipsum
         price: $1000/yearly
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
         highlight: false
         actions: []
         type: pricing_plan
