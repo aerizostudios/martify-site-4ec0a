@@ -31,6 +31,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
+    subtitle: Looking for a bigger plan or custom solution? Contact sales team
   - section_id: faq
     type: section_faq
     background: gray
