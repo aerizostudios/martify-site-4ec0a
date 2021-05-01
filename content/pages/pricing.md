@@ -21,7 +21,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Professional Monthly
+      - title: Professional Yearly
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
