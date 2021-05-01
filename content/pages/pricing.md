@@ -57,10 +57,10 @@ sections:
           platform in a week. If you want a custom UI for your storefront It'll
           take about a month to design and setup e-commerce store.
       - question: ' How would I manage the store? Do I need to contact you if I need any updates in the future?'
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >
+          Your store will come with an intuitive Admin Panel. There you can
+          manage your entire store. It is feature rich and very easy to use. You
+          don't need to be dependent on us for any of the work.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
