@@ -19,7 +19,7 @@ sections:
         subtitle: lorem-ipsum
         price: $3500/yearly
         details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
-        highlight: false
+        highlight: true
         actions:
           - label: Choose yearly
             url: '#'
