@@ -69,7 +69,7 @@ sections:
           estimation.
       - question: |-
           How will I know if there are new features released
-                                                  
+                                                  ?
         answer: >-
           ## Lorem ipsum
 
