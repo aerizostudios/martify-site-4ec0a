@@ -61,7 +61,7 @@ sections:
           Your store will come with an intuitive Admin Panel. There you can
           manage your entire store. It is feature rich and very easy to use. You
           don't need to be dependent on us for any of the work.
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: My store will need continuous enhancement and changes?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
