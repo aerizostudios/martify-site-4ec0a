@@ -50,6 +50,9 @@ export default class SectionPricing extends React.Component {
                 </div>
               </div>
               )}
+              <div>
+                  
+              </div>
              <small>*Server cost will increase depending on users/traffic.</small> 
              <br/>
 <small>*Customizations in the existing platform are available on demand and will be chargeable. </small>
