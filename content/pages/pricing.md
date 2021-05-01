@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: "Looking for a bigger plan or custom solution?\_Contact sales team"
     pricing_plans:
       - title: Professional Monthly
         subtitle: For all businesses
