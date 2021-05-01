@@ -23,7 +23,7 @@ sections:
             style: primary
       - title: Professional Yearly
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: $1000/yearly
         details: >-
           ## Lorem ipsum
 
