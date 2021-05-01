@@ -8,7 +8,7 @@ sections:
     pricing_plans:
       - title: Professional Monthly
         subtitle: For all businesses
-        price: $250/m
+        price: $250/monthly
         details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Slack + Phone\n*   Whitelabel\n*   1 payment gateway integrated\n\n"
         highlight: false
         actions:
