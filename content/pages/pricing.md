@@ -37,7 +37,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Have more doubts? Contact us instead
     faq_items:
       - question: How long will it take to set up the website?
         answer: >
