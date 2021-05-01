@@ -67,9 +67,8 @@ sections:
           Maintenance. When in need you can share your requirement with us. We
           will evaluate your requirement and get back to you with a detailed
           estimation.
-      - question: |2-
-
-                                                      How will I know if there are new features released
+      - question: |-
+          How will I know if there are new features released
                                                   
         answer: >-
           ## Lorem ipsum
