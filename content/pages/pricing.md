@@ -13,7 +13,7 @@ sections:
         details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Slack + Phone\n*   Whitelabel\n*   1 payment gateway integrated\n\n"
         highlight: true
         actions:
-          - label: Order Now
+          - label: Choose monthly
             url: /signup
             style: primary
       - title: Professional Yearly
