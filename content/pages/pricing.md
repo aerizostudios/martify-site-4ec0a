@@ -5,7 +5,6 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: "Looking for a bigger plan or custom solution?\_Contact sales team"
     pricing_plans:
       - title: Professional Monthly
         subtitle: For all businesses
