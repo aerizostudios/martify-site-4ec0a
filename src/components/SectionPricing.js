@@ -50,6 +50,7 @@ export default class SectionPricing extends React.Component {
                 </div>
               </div>
               )}
+              h
             </section>
         );
     }
