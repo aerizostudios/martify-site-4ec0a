@@ -68,17 +68,10 @@ sections:
           will evaluate your requirement and get back to you with a detailed
           estimation.
       - question: How will I know if there are new features released ?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          We provide hosting for your marketplace and take care of all technical
+          issues. When we release new features, your marketplace is
+          automatically updated. Just sit back and relax.
         type: faq_item
 seo:
   title: Pricing
