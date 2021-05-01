@@ -21,7 +21,16 @@ sections:
         price: $1000/yearly
         details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
         highlight: false
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: pricing_plan
   - section_id: faq
     type: section_faq
