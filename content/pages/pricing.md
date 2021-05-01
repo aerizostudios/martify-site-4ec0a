@@ -56,7 +56,7 @@ sections:
           If you choose to go with our existing templates, we can set up your
           platform in a week. If you want a custom UI for your storefront It'll
           take about a month to design and setup e-commerce store.
-      - question: Aliquam eget purus ante?
+      - question: ' How would I manage the store? Do I need to contact you if I need any updates in the future?'
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
