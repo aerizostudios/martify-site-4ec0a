@@ -62,14 +62,11 @@ sections:
           manage your entire store. It is feature rich and very easy to use. You
           don't need to be dependent on us for any of the work.
       - question: My store will need continuous enhancement and changes?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+        answer: >
+          We have customized models, so be it development, enhancement, or
+          Maintenance. When in need you can share your requirement with us. We
+          will evaluate your requirement and get back to you with a detailed
+          estimation.
 seo:
   title: Pricing
   description: This is the pricing page
