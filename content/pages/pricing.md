@@ -67,9 +67,10 @@ sections:
           Maintenance. When in need you can share your requirement with us. We
           will evaluate your requirement and get back to you with a detailed
           estimation.
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: |2-
+
+                                                      How will I know if there are new features released
+                                                  
         answer: >-
           ## Lorem ipsum
 
