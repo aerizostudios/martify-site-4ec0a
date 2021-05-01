@@ -16,7 +16,7 @@ sections:
             url: /signup
             style: primary
       - title: Professional Yearly
-        subtitle: lorem-ipsum
+        subtitle: For all businesses
         price: $3500/yearly
         details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
         highlight: true
