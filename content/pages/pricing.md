@@ -17,7 +17,7 @@ sections:
             style: primary
       - title: Professional Yearly
         subtitle: lorem-ipsum
-        price: $1000/yearly
+        price: $3500/yearly
         details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
         highlight: false
         actions:
