@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Professional
+      - title: Professional Monthly
         subtitle: For all businesses
         price: $49/m
         details: |-
