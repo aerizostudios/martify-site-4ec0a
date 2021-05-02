@@ -20,7 +20,7 @@ sections:
       - input_type: number
         name: Contact Number
         label: Contact Number
-        default_value: lorem-ipsum
+        default_value: Contact Number
         options: []
         is_required: false
         type: form_field
