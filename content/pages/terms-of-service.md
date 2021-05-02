@@ -21,7 +21,50 @@ seo:
       value: Terms of service page
 layout: page
 ---
+## 1. Terms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+By accessing this Website, accessible from https://martify.store, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+## 2. Use License
+
+Permission is granted to temporarily download one copy of the materials on Martify's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+
+*   modify or copy the materials;
+
+*   use the materials for any commercial purpose or for any public display;
+
+*   attempt to reverse engineer any software contained on Martify's Website;
+
+*   remove any copyright or other proprietary notations from the materials; or
+
+*   transferring the materials to another person or "mirror" the materials on any other server.
+
+This will let Martify to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
+
+## 3. Disclaimer
+
+All the materials on Martify’s Website are provided "as is". Martify makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Martify does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+
+## 4. Limitations
+
+Martify or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Martify’s Website, even if Martify or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+
+## 5. Revisions and Errata
+
+The materials appearing on Martify’s Website may include technical, typographical, or photographic errors. Martify will not promise that any of the materials in this Website are accurate, complete, or current. Martify may change the materials contained on its Website at any time without notice. Martify does not make any commitment to update the materials.
+
+## 6. Links
+
+Martify has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Martify of the site. The use of any linked website is at the user’s own risk.
+
+## 7. Site Terms of Use Modifications
+
+Martify may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+
+## 8. Your Privacy
+
+Please read our Privacy Policy.
+
+## 9. Governing Law
+
+Any claim related to Martify's Website shall be governed by the laws of in without regards to its conflict of law provisions.
