@@ -1,8 +1,11 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  We’re a team of passionate individuals with a desire to create meaningful
+  work. We never rest on our past successes and continue to push boundaries.
+  Learning is a must in the industry and we are deep into the digital forest. We
+  believe in supporting our team to create the future, pushing ourselves to
+  deliver to most forward-thinking solutions.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
