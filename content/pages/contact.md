@@ -19,7 +19,7 @@ sections:
         is_required: true
       - input_type: number
         name: Contant Number
-        label: lorem-ipsum
+        label: Contant Number
         default_value: lorem-ipsum
         options: []
         is_required: false
