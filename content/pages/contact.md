@@ -5,10 +5,8 @@ sections:
     type: section_contact
     background: gray
     title: Contact Us By Signing Up
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: |
+      Add your details here and we will contact you.
     form_id: contactForm
     form_fields:
       - input_type: text
