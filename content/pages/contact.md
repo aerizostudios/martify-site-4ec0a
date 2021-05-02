@@ -29,7 +29,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-      - input_type: number
+      - input_type: checkbox
         name: consent
         label: >-
           I understand that this form is storing my submitted information so I
