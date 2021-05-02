@@ -19,7 +19,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: What do you sell?
         default_value: Please select
         options:
           - Error on the site
