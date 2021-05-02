@@ -10,7 +10,7 @@ sections:
         subtitle: For all businesses
         price: $250/month
         details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Slack + Phone\n*   Whitelabel\n*   1 payment gateway integrated\n\n"
-        highlight: false
+        highlight: true
         actions:
           - label: Choose monthly
             url: /signup
