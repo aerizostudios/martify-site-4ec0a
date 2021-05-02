@@ -20,7 +20,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "primary",
                 "has_icon": false
             },
