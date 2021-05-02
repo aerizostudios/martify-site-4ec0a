@@ -1,6 +1,6 @@
 ---
 title: Sign Up
-subtitle: Have any doubts? Contact us by filling the form below or mail as at our id
+subtitle: Have any doubts? Sign up and we will contact you
 image: images/11.jpg
 image_alt: Office desk top view
 seo:
