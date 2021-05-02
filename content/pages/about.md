@@ -31,8 +31,7 @@ seo:
 layout: page
 subtitle: >-
   We’re a team of passionate individuals with a desire to create meaningful
-  work. We never rest on our past successes and continue to push boundaries.
-  Learning is a must in the industry and we are deep into the digital forest. We
+  work. We never rest on our past successes and continue to push boundaries.We
   believe in supporting our team to create the future, pushing ourselves to
   deliver to most forward-thinking solutions.
 ---
