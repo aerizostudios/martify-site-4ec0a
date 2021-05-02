@@ -25,7 +25,7 @@ sections:
           - Food
           - Clothes
           - Electronics
-          - lorem-ipsum
+          - Others
       - input_type: textarea
         name: message
         label: Message
