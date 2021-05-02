@@ -18,7 +18,7 @@ sections:
         label: Email
         is_required: true
       - input_type: number
-        name: Contant Number
+        name: Contact Number
         label: Contant Number
         default_value: lorem-ipsum
         options: []
