@@ -27,7 +27,7 @@ export default class Page extends React.Component {
                   )}
                   <div className="post-content">
                     {/* {markdownify(_.get(this.props, 'page.markdown', null))} */}
-                    <ContactSection />
+                    {/* <ContactSection /> */}
                   </div>
                 </article>
               </div>
