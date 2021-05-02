@@ -24,7 +24,7 @@ sections:
         options:
           - Food
           - Clothes
-          - Other
+          - Others
       - input_type: textarea
         name: message
         label: Message
