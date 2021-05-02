@@ -51,11 +51,6 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
                         "label": "Contact",
                         "url": "/contact",
                         "style": "link"
