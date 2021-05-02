@@ -227,6 +227,6 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 *   By email: 88722 45003
 
-*   By visiting this page on our website: [https://martify.shop/contact](https://martify.store/contact)
+*   By visiting this page on our website: <https://martify.store/contact>
 
 *   By phone number: 8872245003
