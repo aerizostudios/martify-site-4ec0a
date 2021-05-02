@@ -22,7 +22,7 @@ sections:
         label: What do you sell?
         default_value: Please select
         options:
-          - Error on the site
+          - Food
           - Sponsorship
           - Other
       - input_type: textarea
