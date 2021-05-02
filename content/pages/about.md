@@ -29,6 +29,12 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+subtitle: >-
+  We’re a team of passionate individuals with a desire to create meaningful
+  work. We never rest on our past successes and continue to push boundaries.
+  Learning is a must in the industry and we are deep into the digital forest. We
+  believe in supporting our team to create the future, pushing ourselves to
+  deliver to most forward-thinking solutions.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
