@@ -87,7 +87,7 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Value for money with no start-upcosts and advanced technological tools
-          designed to serve bothyou and your customers.
+          designed to serve both you and your customers.
       - author: 24/7 Chat Support
         avatar: images/group-28.svg
         avatar_alt: Parsley Montana's photo
