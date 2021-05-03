@@ -2,7 +2,7 @@
     "title": "Martify",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "green",
     "header": {
         "logo_img": "images/blue-eggplant.svg",
         "logo_img_alt": "Logo",
