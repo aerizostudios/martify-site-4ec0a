@@ -35,7 +35,7 @@ sections:
           efficient Dashboard.
         actions:
           - label: Learn More
-            url: /features
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
