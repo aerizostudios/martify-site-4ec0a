@@ -8,7 +8,7 @@ sections:
       using Martify
     image_alt: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: '#'
         style: link
         has_icon: false
