@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: images/High_five-removebg-preview.png
+image: images/High_five-removebg-preview (1).png
 image_alt: Team members in a conference room
 seo:
   title: About Us
