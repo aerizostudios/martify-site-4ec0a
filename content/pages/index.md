@@ -83,7 +83,7 @@ sections:
           Get started right away with no coding and easy-to-use navigation
           settings to create the most accessible platform for your customers.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 'Come for the performance, stay for the flexibility'
     content: >-
       ## Lorem ipsum
 
