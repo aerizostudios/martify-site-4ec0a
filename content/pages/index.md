@@ -1,6 +1,15 @@
 ---
 title: Home
 sections:
+  - section_id: lorem-ipsum
+    title: 'Come for the performance, stay for the flexibility'
+    content: >
+      Transform your online business into a powerful hyperlocal marketplace
+      using Martify
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
+    image: images/Online shopping-cuate (1).svg
   - section_id: features
     type: section_features
     background: gray
@@ -82,15 +91,6 @@ sections:
         content: >-
           Get started right away with no coding and easy-to-use navigation
           settings to create the most accessible platform for your customers.
-  - section_id: lorem-ipsum
-    title: 'Come for the performance, stay for the flexibility'
-    content: >
-      Transform your online business into a powerful hyperlocal marketplace
-      using Martify
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
-    image: images/Online shopping-cuate (1).svg
 seo:
   title: Martify - Build your online store
   description: >-
