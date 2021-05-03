@@ -84,17 +84,9 @@ sections:
           settings to create the most accessible platform for your customers.
   - section_id: lorem-ipsum
     title: 'Come for the performance, stay for the flexibility'
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Transform your online business into a powerful hyperlocal marketplace
+      using Martify
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
