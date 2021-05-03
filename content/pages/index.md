@@ -1,18 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    image: images/neat-goat.svg
-    image_alt: App preview
-    title: 'Come for the performance, stay for the flexibility'
-    content: >
-      Transform your online business into a powerful hyperlocal marketplace
-      using Martify
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
   - section_id: features
     type: section_features
     background: gray
@@ -61,6 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    image: images/marvelous-spinach.svg
   - section_id: call-to-action
     type: section_cta
     title: >-
@@ -93,22 +82,6 @@ sections:
         content: >-
           Get started right away with no coding and easy-to-use navigation
           settings to create the most accessible platform for your customers.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
 seo:
   title: Martify - Build your online store
   description: >-
