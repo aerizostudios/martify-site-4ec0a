@@ -82,6 +82,22 @@ sections:
         content: >-
           Get started right away with no coding and easy-to-use navigation
           settings to create the most accessible platform for your customers.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
 seo:
   title: Martify - Build your online store
   description: >-
