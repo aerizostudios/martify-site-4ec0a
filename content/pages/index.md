@@ -7,7 +7,16 @@ sections:
       Transform your online business into a powerful hyperlocal marketplace
       using Martify
     image_alt: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
     image: images/Online shopping-cuate (1).svg
   - section_id: features
