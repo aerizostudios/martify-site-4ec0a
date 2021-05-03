@@ -98,6 +98,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/Online shopping-cuate (1).svg
 seo:
   title: Martify - Build your online store
   description: >-
