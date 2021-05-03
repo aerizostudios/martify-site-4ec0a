@@ -5,6 +5,12 @@ import {Link, withPrefix, classNames} from '../utils';
 import Action from './Action';
 
 export default class Header extends React.Component {
+    componentDidUpdate(prevProps) {
+  // Typical usage (don't forget to compare props):
+  if (this.props.userID !== prevProps.userID) {
+    this.fetchData(this.props.userID);
+  }
+}
     render() {
         return (
             <header id="masthead" className="site-header outer">
