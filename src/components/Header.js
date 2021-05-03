@@ -5,7 +5,7 @@ import {Link, withPrefix, classNames} from '../utils';
 import Action from './Action';
 
 export default class Header extends React.Component {
-    componentDidUpdate(prevProps) {
+    componentDidMount(prevProps) {
         console.log('ddd');
   // Typical usage (don't forget to compare props):
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
