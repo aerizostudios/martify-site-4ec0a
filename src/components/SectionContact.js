@@ -21,6 +21,7 @@ export default class SectionContact extends React.Component {
               </div>
               <div className="block-content inner-medium">
                 {markdownify(_.get(section, 'content', null))}
+                <div>
                 <a href="javascript:void(Tawk_API.toggle())"> Click to Chat </a>
 
                 <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)}{...(_.get(section, 'form_action', null) ? ({action: _.get(section, 'form_action', null)}) : null)} method="POST" data-netlify="true" data-netlify-honeypot={_.get(section, 'form_id', null) + '-bot-field'}>
