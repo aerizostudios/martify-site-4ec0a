@@ -112,8 +112,7 @@ seo:
         With martify you can create an online store in just a few steps with no
         coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY | CATERING
     - name: 'twitter:image'
-      value: >-
-        /images/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f3234393931322f37313532373134362d35623662653238302d323864612d313165612d393031642d6562373631363161366266622e706e67.png
+      value: /images/rainy-potato.png
       relativeUrl: true
 layout: landing
 ---
