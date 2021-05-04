@@ -16,7 +16,7 @@ export default class SectionPricing extends React.Component {
                 {_.get(section, 'subtitle', null) && (
                 <p className="block-subtitle">
                   {htmlToReact(_.get(section, 'subtitle', null))}
-                  <a href="javascript:void(Tawk_API.toggle())"> Contact Us </a>
+                  <a href="javascript:void(Tawk_API.toggle())"> Chat with Us </a>
 
 
                 </p>
