@@ -8,7 +8,7 @@ sections:
       using Martify
     image_alt: online-shopping
     actions:
-      - label: Learn More
+      - label: Learn More about Martify
         url: /pricing
         style: primary
         has_icon: false
