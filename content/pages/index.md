@@ -57,7 +57,7 @@ sections:
       the box.
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         style: primary
   - section_id: reviews
     type: section_reviews
