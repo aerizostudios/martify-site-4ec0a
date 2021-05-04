@@ -11,7 +11,6 @@ export default class Action extends React.Component {
         let action_icon = _.get(action, 'icon', null) || 'arrow-left';
         let action_icon_pos = _.get(action, 'icon_position', null) || 'left';
         return (
-            <>
             <Link href={withPrefix(_.get(action, 'url', null))}
               {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}
               {...((_.get(action, 'new_window', null) || _.get(action, 'no_follow', null)) ? ({rel: (_.get(action, 'new_window', null) ? ('noopener ') : '') + (_.get(action, 'no_follow', null) ? ('nofollow') : '')}) : null)}
@@ -21,10 +20,6 @@ export default class Action extends React.Component {
               )}
               <span className={classNames({'order-first': action_icon_pos === 'right'})}>{_.get(action, 'label', null)}</span>
             </Link>
-            <a href="javascript:void(Tawk_API.toggle())"> Click to Chat </a>
-
-
-            </>
         );
     }
 }
