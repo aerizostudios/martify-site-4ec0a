@@ -83,7 +83,7 @@ sections:
           Get started right away with no coding and easy-to-use navigation
           settings to create the most accessible platform for your customers.
 seo:
-  title: Martify - Build online store
+  title: Martify - Create your own online store
   description: >-
     An online store with all the tools you need to build, manage, and grow your
     business. Grow your Ecommerce by taking it online with Martify.
