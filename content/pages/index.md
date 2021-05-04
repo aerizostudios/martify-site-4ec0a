@@ -6,7 +6,7 @@ sections:
     content: >
       Transform your online business into a powerful hyperlocal marketplace
       using Martify
-    image_alt: lorem-ipsum
+    image_alt: online-shopping
     actions:
       - label: Learn More
         url: /pricing
