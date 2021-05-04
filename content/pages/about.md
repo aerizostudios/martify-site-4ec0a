@@ -1,7 +1,7 @@
 ---
 title: About Us
 image: images/High_five-removebg.png
-image_alt: Team members in a conference room
+image_alt: team members
 seo:
   title: About Us
   description: This is the about page
