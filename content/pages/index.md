@@ -103,10 +103,8 @@ sections:
 seo:
   title: Martify - Build your online store
   description: >-
-    Sell More With Our Fast & Easy eCommerce Solution. Try Now For Free! Get
-    Instant Access To 100's Of Features, Secure Hosting, And Much More.
-    Professional Designs. No Hidden Fees. All-In-One Solution. 100+ Features
-    Included. Easy To Use. Full Blogging Platform.
+    An online store with all the tools you need to build, manage, and grow your
+    business.
   extra:
     - name: 'og:type'
       value: website
