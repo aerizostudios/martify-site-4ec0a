@@ -104,7 +104,7 @@ seo:
   title: Martify - Build your online store
   description: >-
     An online store with all the tools you need to build, manage, and grow your
-    business. Grow your Ecommerce by taking it online with Yelo.
+    business. Grow your Ecommerce by taking it online with Martify.
   extra:
     - name: 'og:type'
       value: website
