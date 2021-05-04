@@ -48,13 +48,7 @@ sections:
           Offer modern shopping experiences at any time, on any device. A
           mobile-first PWA stack ensures you never miss the opportunity to make
           the sale.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
     image: images/marvelous-spinach.svg
   - section_id: call-to-action
     type: section_cta
