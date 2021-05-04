@@ -92,7 +92,7 @@ seo:
       value: store
       keyName: property
     - name: 'og:title'
-      value: Martify - Build your online store
+      value: Martify - Create your own online store
       keyName: property
     - name: 'og:description'
       value: >-
