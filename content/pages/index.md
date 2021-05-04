@@ -114,9 +114,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        With martify you can create a hyperlocal marketplace in just a few steps
-        with no coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY |
-        CATERING
+        With martify you can create an online store in just a few steps with no
+        coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY | CATERING
       keyName: property
     - name: 'og:image'
       value: >-
