@@ -100,7 +100,7 @@ seo:
         coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY | CATERING
       keyName: property
     - name: 'og:image'
-      value: /images/pink-chestnut.png
+      value: /images/storefront-page-ab273759db7917bdf8c42288ada574f4%20(1).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
