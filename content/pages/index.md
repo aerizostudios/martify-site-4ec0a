@@ -40,13 +40,7 @@ sections:
         content: >
           With martify you can create a hyperlocal marketplace in just a few
           steps with no coding.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: 'Anywhere, any device'
         image: images/any-device-da8699d6ac3e3d1a3d3d143e04a652f4.svg
         image_alt: App user profile preview
