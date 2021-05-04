@@ -103,8 +103,10 @@ sections:
 seo:
   title: Martify - Build your online store
   description: >-
-    With martify you can create a hyperlocal marketplace in just a few steps
-    with no coding or setup fee. FOOD ODERING | GROCERIES | PHARMACY | CATERING
+    Sell More With Our Fast & Easy eCommerce Solution. Try Now For Free! Get
+    Instant Access To 100's Of Features, Secure Hosting, And Much More.
+    Professional Designs. No Hidden Fees. All-In-One Solution. 100+ Features
+    Included. Easy To Use. Full Blogging Platform.
   extra:
     - name: 'og:type'
       value: website
