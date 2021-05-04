@@ -23,17 +23,6 @@
                 "url": "/contact",
                 "style": "primary",
                 "has_icon": false
-            },
-            {
-                "label": "See Demo",
-                "url": "https://martify-webapp.vercel.app/",
-                "style": "secondary",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
