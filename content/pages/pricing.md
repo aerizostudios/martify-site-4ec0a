@@ -22,7 +22,7 @@ sections:
         highlight: false
         actions:
           - label: Choose yearly
-            url: '#'
+            url: /contact
             style: secondary
             has_icon: false
             icon: arrow-left
