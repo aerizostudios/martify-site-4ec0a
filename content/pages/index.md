@@ -42,7 +42,7 @@ sections:
           steps with no coding.
         actions: []
       - title: 'Anywhere, any device'
-        image: images/Online connection-bro.svg
+        image: images/Online connection-bro (1).svg
         image_alt: App user profile preview
         content: >
           Offer modern shopping experiences at any time, on any device. A
