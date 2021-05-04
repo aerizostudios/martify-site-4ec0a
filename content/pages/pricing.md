@@ -13,7 +13,7 @@ sections:
         highlight: true
         actions:
           - label: Choose monthly
-            url: 'javascript:void(Tawk_API.toggle())'
+            url: /contact
             style: primary
       - title: Professional Yearly
         subtitle: For all businesses
