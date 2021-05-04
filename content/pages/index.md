@@ -89,7 +89,7 @@ seo:
     business. Grow your Ecommerce by taking it online with Martify.
   extra:
     - name: 'og:type'
-      value: store
+      value: website
       keyName: property
     - name: 'og:title'
       value: Martify - Create your own online store
