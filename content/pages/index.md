@@ -45,9 +45,8 @@ sections:
         image: images/Online connection-bro (1).svg
         image_alt: App user profile preview
         content: >
-          Offer modern shopping experiences at any time, on any device. A
-          mobile-first PWA stack ensures you never miss the opportunity to make
-          the sale.
+          A mobile-first PWA ensures you never miss the opportunity to make the
+          sale from anywhere in the world. 
         actions: []
     image: images/marvelous-spinach.svg
   - section_id: call-to-action
