@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: 'Come for the performance, stay for the flexibility'
+    title: Get a fully-managed eCommerce website
     content: >
       Transform your online business into a powerful hyperlocal marketplace
       using Martify
