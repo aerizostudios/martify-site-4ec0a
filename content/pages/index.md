@@ -33,13 +33,7 @@ sections:
           Its multi-language and multi-currency enable frictionless expansion
           and flexibility. All of this is wrapped into a friendly, fast and
           efficient Dashboard.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: All the features of eCommerce
         image: images/storefront-page-9b1e4861b9884340d1ef14b443bfa51b (1).png
         image_alt: App users welcoming a new member
