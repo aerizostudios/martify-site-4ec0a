@@ -62,7 +62,8 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
-                        "icon_position": "left"
+                        "icon_position": "left",
+                        "new_window": true
                     }
                 ]
             }
