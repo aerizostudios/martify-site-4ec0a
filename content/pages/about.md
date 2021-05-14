@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: images/High_five-removebg.png
+image: images/High_five-removebg (1) (1).webp
 image_alt: team members
 seo:
   title: About Us
