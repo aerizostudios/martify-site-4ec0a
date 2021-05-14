@@ -35,7 +35,7 @@ sections:
           efficient Dashboard.
         actions: []
       - title: All the features of eCommerce
-        image: images/adorable-onion.webp
+        image: images/energetic-aluminum.png
         image_alt: App users welcoming a new member
         content: >
           With martify you can create a hyperlocal marketplace in just a few
