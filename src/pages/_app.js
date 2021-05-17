@@ -35,7 +35,23 @@ function MyApp({ Component, pageProps }) {
         };
     }, []);
 
-    return <Component {...pageProps} />;
+    return <>   <Head>
+        <meta name="robots" content="noindex" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta
+          name="viewport"
+          content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
+        />
+        <meta name="description" content="Description" />
+        <meta name="keywords" content="Keywords" />
+        <title>Martify</title>
+
+        <link rel="manifest" href="/manifest.json" />
+        <link href="/logo16.png" rel="icon" type="image/png" sizes="16x16" />
+        <link href="/logo32.png" rel="icon" type="image/png" sizes="32x32" />
+        <link rel="apple-touch-icon" href="/logo192.png"></link>
+        <meta name=<Component {...pageProps} /></>;
 }
 
 // Only uncomment this method if you have blocking data requirements for
