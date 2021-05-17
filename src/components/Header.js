@@ -5,19 +5,7 @@ import {Link, withPrefix, classNames} from '../utils';
 import Action from './Action';
 
 export default class Header extends React.Component {
-    componentDidMount(prevProps) {
 
-  // Typical usage (don't forget to compare props):
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/60902077185beb22b30997a8/1f4pftl4s';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-}
     render() {
         return (
             <header id="masthead" className="site-header outer">
