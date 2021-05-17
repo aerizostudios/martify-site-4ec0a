@@ -2,7 +2,7 @@
 import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
-import Head from "next/head";
+
 
 function MyApp({ Component, pageProps }) {
 
@@ -35,24 +35,7 @@ function MyApp({ Component, pageProps }) {
         };
     }, []);
 
-    return <>
-    <Head>
-
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/60902077185beb22b30997a8/1f4pftl4s';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-
-    </Head>
-    <Component {...pageProps} />
-    </>;
+    return <Component {...pageProps} />;
 }
 
 // Only uncomment this method if you have blocking data requirements for
