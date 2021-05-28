@@ -30,7 +30,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo 1.png",
+                "image": "images/white-small.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Martify\n"
