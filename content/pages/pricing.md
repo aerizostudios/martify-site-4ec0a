@@ -18,7 +18,7 @@ sections:
       - title: Professional Yearly
         subtitle: For all businesses
         price: $2800/year
-        details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Slack + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n\n"
+        details: "*   Unlimited Users, Orders\n\n*   Support:\_Email\_+ Discord + Phone\n\n*   Whitelabel\n\n*   1 payment gateway integrated\n"
         highlight: false
         actions:
           - label: Choose yearly
