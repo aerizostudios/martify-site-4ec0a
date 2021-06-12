@@ -9,7 +9,7 @@ sections:
       - title: Professional Monthly
         subtitle: For all businesses
         price: $250/month
-        details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Slack + Phone\n*   Whitelabel\n*   1 payment gateway integrated\n\n"
+        details: "*   Unlimited Users, Orders\n*   Support:\_Email\_+ Discord + Phone\n*   Whitelabel\n*   1 payment gateway integrated\n"
         highlight: true
         actions:
           - label: Choose monthly
