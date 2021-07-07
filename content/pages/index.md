@@ -69,7 +69,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Why martify?
+    title: Why Martify?
     reviews:
       - author: "Fully-Powered Software &\_Cost-effective"
         avatar: images/group-24.svg
