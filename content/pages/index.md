@@ -84,8 +84,8 @@ sections:
 seo:
   title: Martify - Create your own online store
   description: >-
-    An online store with all the tools you need to build, manage, and grow your
-    business. Grow your Ecommerce by taking it online with Martify.
+    An online marketplace with all the tools you need to build, manage, and grow
+    your store business. Grow your Ecommerce by taking it online with Martify.
   extra:
     - name: 'og:type'
       value: website
