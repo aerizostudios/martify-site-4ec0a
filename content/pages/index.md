@@ -41,8 +41,8 @@ sections:
         image: images/energetic-aluminum.png
         image_alt: App users welcoming a new member
         content: >
-          With martify you can create a hyperlocal marketplace in just a few
-          steps with no coding.
+          With Martify you can create a hyperlocal marketplace in just a few
+          steps with no coding. 
         actions: []
       - title: 'Anywhere, any device'
         image: images/Online connection-bro (1).svg
