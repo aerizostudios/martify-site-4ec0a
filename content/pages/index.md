@@ -5,7 +5,10 @@ sections:
     title: Get a fully-managed eCommerce website
     content: >
       Transform your online business into a powerful hyperlocal marketplace
-      using Martify
+      using Martify.
+
+      With Martify, we manage everything related to your eCommerce website, you
+      can just relax and run your online business.
     image_alt: online-shopping
     actions:
       - label: Learn More about Martify
