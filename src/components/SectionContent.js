@@ -17,9 +17,9 @@ export default class SectionContent extends React.Component {
                   </div>
                   )}
                   <div className="cell block-content">
-                    {/* {_.get(section, 'title', null) && (
+                    {_.get(section, 'title', null) && (
                     <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
-                    )} */}
+                    )}
                     <div className="block-copy">
                       {markdownify(_.get(section, 'content', null))}
                     </div>
