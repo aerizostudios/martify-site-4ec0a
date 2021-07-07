@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: Get a fully-managed eCommerce website
+    title: Get a fully-managed eCommerce store
     content: >
       Transform your online business into a powerful hyperlocal marketplace
       using Martify.
