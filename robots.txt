@@ -6,4 +6,4 @@ Allow: /
 Host: https://martify.store/
 
 # Sitemaps
-Sitemap: https://deepinder.me/sitemap.xml
+Sitemap: https://martify.store/sitemap.xml
