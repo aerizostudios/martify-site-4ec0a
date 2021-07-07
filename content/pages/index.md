@@ -5,7 +5,10 @@ sections:
     title: Get a fully-managed eCommerce website
     content: >
       Transform your online business into a powerful hyperlocal marketplace
-      using Martify
+      using Martify.
+
+      With Martify, we manage everything related to your eCommerce website, you
+      can just relax and run your online business.
     image_alt: online-shopping
     actions:
       - label: Learn More about Martify
@@ -30,23 +33,28 @@ sections:
         content: >
           **Made to power fast-growing e-commerce brands worldwide.**
 
-          Its multi-language and multi-currency enable frictionless expansion
-          and flexibility. All of this is wrapped into a friendly, fast and
+          Our Platform comes with a feature-rich Admin Panel. Manage Products,
+          Shipping, Discounts, Inventory, and everything else from our easy to
+          use admin panel. All of this is wrapped into a friendly, fast and
           efficient Dashboard.
         actions: []
       - title: All the features of eCommerce
         image: images/energetic-aluminum.png
         image_alt: App users welcoming a new member
         content: >
-          With martify you can create a hyperlocal marketplace in just a few
-          steps with no coding.
+          **With Martify you can create a hyperlocal marketplace in just a few
+          steps with no coding.** Its multi-language and multi-currency enable
+          frictionless expansion and flexibility. Whether you are an individual
+          creator, a small business owner or a large enterprise, Martify will
+          suit all your needs.
         actions: []
       - title: 'Anywhere, any device'
         image: images/Online connection-bro (1).svg
         image_alt: App user profile preview
         content: >
-          A mobile-first PWA ensures you never miss the opportunity to make the
-          sale from anywhere in the world. 
+          **A mobile-first PWA ensures you never miss the opportunity to make
+          the sale from anywhere in the world.** The mobile version is fast,
+          efficient and runs on all the devices.
         actions: []
     image: images/marvelous-spinach.svg
   - section_id: call-to-action
@@ -84,8 +92,8 @@ sections:
 seo:
   title: Martify - Create your own online store
   description: >-
-    An online store with all the tools you need to build, manage, and grow your
-    business. Grow your Ecommerce by taking it online with Martify.
+    An online marketplace with all the tools you need to build, manage, and grow
+    your store business. Grow your Ecommerce by taking it online with Martify.
   extra:
     - name: 'og:type'
       value: website
