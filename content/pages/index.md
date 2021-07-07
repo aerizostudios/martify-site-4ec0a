@@ -49,7 +49,8 @@ sections:
         image_alt: App user profile preview
         content: >
           A mobile-first PWA ensures you never miss the opportunity to make the
-          sale from anywhere in the world. 
+          sale from anywhere in the world. The mobile version is fast, efficient
+          and runs on all the devices. 
         actions: []
     image: images/marvelous-spinach.svg
   - section_id: call-to-action
