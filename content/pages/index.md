@@ -31,10 +31,11 @@ sections:
         image: images/71523261-8a795880-28c8-11ea-98c0-6281ea37f412.png
         image_alt: App preview on a phone and tablet
         content: >
-          **Made to power fast-growing e-commerce brands worldwide.**
+          **Made to power fast-growing e-commerce brands worldwide.
 
-          Its multi-language and multi-currency enable frictionless expansion
-          and flexibility. All of this is wrapped into a friendly, fast and
+          **Our Platform comes with a feature-rich Admin Panel. Manage Products,
+          Shipping, Discounts, Inventory, and everything else from our easy to
+          use admin panel. All of this is wrapped into a friendly, fast and
           efficient Dashboard.
         actions: []
       - title: All the features of eCommerce
