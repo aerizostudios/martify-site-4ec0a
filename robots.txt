@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://martify.store/
-
-# Sitemaps
-Sitemap: https://martify.store/sitemap.xml
