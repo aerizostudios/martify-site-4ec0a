@@ -14,6 +14,7 @@ export default class Body extends React.Component {
                 <Helmet>
                     <title>{_.get(this.props, 'page.frontmatter.seo.title', null) ? (_.get(this.props, 'page.frontmatter.seo.title', null)) : _.get(this.props, 'page.frontmatter.title', null) + ' | ' + _.get(this.props, 'data.config.title', null)}</title>
                     <meta charSet="utf-8"/>
+                    <meta name="facebook-domain-verification" content="b4j6qrrm5a6zo0hk67i8xjq9r8mf59" />
                     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'page.frontmatter.seo.description', null) || ''} />
