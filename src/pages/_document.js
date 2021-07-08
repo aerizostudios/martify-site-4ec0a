@@ -36,7 +36,7 @@ class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents} lang="en">
                 <Head>
                 {this.helmetHeadComponents}
-                <FacebookPixel />
+                {/* <FacebookPixel /> */}
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
