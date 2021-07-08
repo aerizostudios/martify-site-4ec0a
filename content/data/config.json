@@ -72,7 +72,7 @@
                         "has_icon": false,
                         "icon": "facebook",
                         "icon_position": "left",
-                        "new_window": false,
+                        "new_window": true,
                         "no_follow": false,
                         "type": "action"
                     }
