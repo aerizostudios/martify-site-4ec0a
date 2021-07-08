@@ -13,9 +13,9 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '989093995196442');
 fbq('track', 'PageView');` }}
     />
-    <noscript dangerouslySetInnerHTML={{ __html: `<img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=XXXXXXXXXXXXXXXXX&ev=PageView&noscript=1" />` }}
-    />
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=989093995196442&ev=PageView&noscript=1"
+/></noscript>
   </React.Fragment>
 
   <!-- Facebook Pixel Code -->
