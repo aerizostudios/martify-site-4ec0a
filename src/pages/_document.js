@@ -1,6 +1,7 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { Helmet } from 'react-helmet';
 import ScriptTag from 'react-script-tag';
+import FacebookPixel from '../components/FacebookPixel';
 import { withPrefix } from '../utils';
 
 
@@ -33,7 +34,10 @@ class MyDocument extends Document {
     render() {
         return (
             <Html {...this.helmetHtmlAttrComponents} lang="en">
-                <Head>{this.helmetHeadComponents}</Head>
+                <Head>
+                {this.helmetHeadComponents}
+                <FacebookPixel />
+                </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <ScriptTag src={withPrefix('js/plugins.js')}/>
