@@ -33,7 +33,10 @@ class MyDocument extends Document {
     render() {
         return (
             <Html {...this.helmetHtmlAttrComponents} lang="en">
-                <Head>{this.helmetHeadComponents}</Head>
+                <Head>
+                {this.helmetHeadComponents}
+                <Face
+                </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <ScriptTag src={withPrefix('js/plugins.js')}/>
