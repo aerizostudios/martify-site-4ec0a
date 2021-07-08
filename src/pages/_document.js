@@ -1,7 +1,7 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { Helmet } from 'react-helmet';
 import ScriptTag from 'react-script-tag';
-import FacebookPixel from 'components/FacebookPixel';
+import FacebookPixel from '../components/FacebookPixel';
 import { withPrefix } from '../utils';
 
 
