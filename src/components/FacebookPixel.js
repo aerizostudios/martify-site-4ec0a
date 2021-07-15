@@ -14,7 +14,8 @@ fbq('init', '888231618781430');
 fbq('track', 'PageView');` }}
     />
     <noscript dangerouslySetInnerHTML={{ __html: `<img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=XXXXXXXXXXXXXXXXX&ev=PageView&noscript=1" />` }}
+src="https://www.facebook.com/tr?id=888231618781430&ev=PageView&noscript=1"
+/>` }}
     />
     />
   </React.Fragment>
