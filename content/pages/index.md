@@ -28,7 +28,7 @@ sections:
     title: Features
     features:
       - title: Powerful Admin Dashboard
-        image: images/71523261-8a795880-28c8-11ea-98c0-6281ea37f412.png
+        image: images/violet-sun.png
         image_alt: App preview on a phone and tablet
         content: >
           **Made to power fast-growing e-commerce brands worldwide.**
