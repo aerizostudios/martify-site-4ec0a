@@ -17,6 +17,5 @@ fbq('track', 'PageView');` }}
 src="https://www.facebook.com/tr?id=888231618781430&ev=PageView&noscript=1"
 />` }}
     />
-    />
   </React.Fragment>
 );
